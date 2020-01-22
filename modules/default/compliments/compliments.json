@@ -1,0 +1,28 @@
+{
+	"anytime": [
+		"Na, wie geht's denn so?",
+		"Du bist einfach klasse!",
+		"Na, du auch hier?",
+		"Das Lächeln steht dir"
+	],
+	"morning": [
+		"Gut geschlafen?",
+		"Frisch aus dem Knast, ich benehme mich wie ein Spast!",
+		"Moigen!",
+		"Guten Morgen!",
+		"Heute wird ein guter Tag!",
+		"Genieße deinen Tag!"
+	],
+	"afternoon": [
+		"Du hast wunderschöne Augen!",
+		"Na Schnitte, schon belegt?",
+		"Wow, so schöne lange Beine — bis zum Boden!",
+		"Heute siehst du aber gut aus!"
+	],
+	"evening": [
+		"Die Zeit vergeht mit dir wie im Flug",
+		"Geh'ma heut steil?",
+		"WOW! Tolles Kleid!",
+		"Ich trink Ouzo — was machst du so?"
+	]
+}
